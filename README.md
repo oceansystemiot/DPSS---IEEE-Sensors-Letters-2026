@@ -1,4 +1,4 @@
-##This repository contains the data and/or code associated with the following article.
+## This repository contains the data and/or code associated with the following article.
 
 - **Title**: Design and Towing-Tank Validation of a Distributed Pressure Sensor System for AUV Drift-Angle and Speed Estimation: A Preliminary Comparative Study
 - **Authors**: Jin-Yeong Park et al.
