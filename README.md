@@ -15,5 +15,9 @@ Sparus2head profile.xlsx
 Pdynamic.xlsx
 : Time-series of every nine pressure sensors for every experiments (3~36, except 21~24.)
 
+hydro_dynamic_deltaP_exp_table3.xlsx
+: Flow speed(U) and direction(alpha) for each experiment.
+The flow speed and direction were controlled by the CPMC.
+
 ## How to cite
 **DO NOT CITE THESE DATA.**
